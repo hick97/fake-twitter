@@ -1,6 +1,6 @@
 ## Executando a aplicação
 
-**Obs: É recomendado a instalação do gerenciador de pacotes yarn. **
+**Obs: É recomendado a instalação do gerenciador de pacotes yarn.**
   
 1. Execute o comando `yarn` nos diretórios raiz: `backend` e `frontend`.
 2. Execute o comando `yarn start` no diretório `backend`.
